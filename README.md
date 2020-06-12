@@ -1,5 +1,5 @@
-                        > Shoot for the moon; even if you miss you'll land among the stars
-                                                                          Anonymous
+        >Shoot for the moon; even if you miss you'll land among the stars
+              Anonymous
 
 A little about me: I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. 
 
@@ -27,7 +27,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Check out some of my projects!
 # [OpenGL Project using C++ Programming language]
-## [Databases Utilizing MongoDB](CS340.Final_Project_MJ.docx.zip)
+## [Databases Utilizing MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip)
 ### Header 3
 
 1. Numbered
