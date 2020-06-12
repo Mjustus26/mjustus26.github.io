@@ -40,9 +40,13 @@ IDE: **Eclipse**, **Itelli J IDEA CE**, **Netbeans**, **Xcode**, **Visual Studio
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Project Ideas
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mjustus26/mjustus26.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am a wife and a mom; I run my household which means I do the majority of the cooking. I have always planned out my meals and grocery lists to cut down on costs and trips to the store. I came across freezer meals and I love the idea of prepping everything ahead of time so that you can just take it out of the freezer the night before, pop it in the oven and your good to go! 
+
+Now that we have some back story I want to design an app that holds an array of all of your favorite recipes and once you select an item it will populate a questionaire of what ingredients you already have, then the items you need will be automatically populated into a grocery list that is broken up into various categorys that lets you check it off while you're at the store! 
+
+It would also just be great to have a central location for keeping recipes you love! What would be great would be for it to randomly generate meal ideas for upcoming weeks so it takes all the guess work out of it! 
 
 ### Contact
 
