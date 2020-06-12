@@ -1,7 +1,12 @@
-        >Shoot for the moon; even if you miss you'll land among the stars
-              Anonymous
+        Shoot for the moon; even if you miss you'll land among the stars
+              - Anonymous
 
-A little about me: I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. 
+A little about me: I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. I have learned so much over the course of my degree program. One of the biggest things are time and project management as I am an online student I have to manage my time while juggling all my current obligations and the projects I'm working on to be able to submit assignments on time and to meet my final project deadlines. Computer science has taught me to be an independent thinker and researcher.  
+
+Make sure and check out some of my projects: 
+[Software Design and Engineering ]
+[Algorithms and Data structures - OpenGL Project]
+[Databases - NoSQL MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip)
 
 Some relavant coursework includes: 
 - Software development lifecycle/ agile development
@@ -18,22 +23,17 @@ Some relavant coursework includes:
 - Intro to data and information management
 - Fundamentals of data mining
 
+```markdown
+
 ### #lets talk Programming
 
-Programming Languages: **C++**, **Java**, **Python**, **HTML5**, **CSS**, **JSON**
+Programming Languages I've dabbled in: **C++**, **Java**, **Python**, **HTML5**, **CSS**, **JSON**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Program experience and development platforms
+IDE: **Eclipse**, **Itelli J IDEA CE**, **Netbeans**, **Xcode**, **Visual Studio**
 
-```markdown
-Check out some of my projects!
-[OpenGL Project using C++ Programming language]
-[Databases Utilizing MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip).
-### Header 3
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+ _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
@@ -46,4 +46,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Having trouble with Pages? Email me at [Mjustus26@gmail.com] or contact me by phone at (417) 316-3248. 
+Having trouble with Pages? 
+Email me: Mjustus26@gmail.com or 
+contact me by phone: (417) 316-3248
