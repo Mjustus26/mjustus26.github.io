@@ -27,7 +27,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Check out some of my projects!
 # [OpenGL Project using C++ Programming language]
-## [Databases Utilizing MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip)
+## [Databases Utilizing MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip).
 ### Header 3
 
 1. Numbered
