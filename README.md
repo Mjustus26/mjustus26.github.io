@@ -42,9 +42,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Project Ideas
 
-I am a wife and a mom; I run my household which means I do the majority of the cooking. I have always planned out my meals and grocery lists to cut down on costs and trips to the store. I came across freezer meals and I love the idea of prepping everything ahead of time so that you can just take it out of the freezer the night before, pop it in the oven and your good to go! 
+I am a wife and a mom; I run my household which means I do the majority of the cooking. I have always planned out my meals and grocery lists to cut down on costs and trips to the store. I came across the idea of freezer meals recently and I love the idea of prepping everything ahead of time so that you can just take it out of the freezer the night before, pop it in the oven and your good to go! Then dishes are less and meal prep is done for the week! 
 
-Now that we have some back story I want to design an app that holds an array of all of your favorite recipes and once you select an item it will populate a questionaire of what ingredients you already have, then the items you need will be automatically populated into a grocery list that is broken up into various categorys that lets you check it off while you're at the store! 
+Now that we have some back story I want to design an app that holds an array of all of your favorite recipes and once you select an recipe you want it will populate a questionaire with ingredients you already have, then the items you need will be automatically populated into a categorical grocery list that lets you check off items while you're at the store! 
 
 It would also just be great to have a central location for keeping recipes you love! What would be great would be for it to randomly generate meal ideas for upcoming weeks so it takes all the guess work out of it! 
 
