@@ -1,21 +1,21 @@
 ## Welcome to my GitHub Pages
 
-A little about me: I am a Computer Science major (3.6 GPA) currently attending Southern New Hampshire University, with 9 months of practical work experience and exciting projects in progress. 
+A little about me: I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with 9 months of practical work experience and exciting projects in progress. 
 
 Some relavant coursework includes: 
--Software development lifecycle/ agile development
--web site design
--data structures and algorithms
--in app development
--Network and Telecom Management
--Intro to Linux OS
--Automation and QA
--Client/ Server Development
--Computer graphics and Visualization, 
--Operating environments
--Object oriented analysis/ design
--Intro to data and information management
--Fundamentals of data mining
+- Software development lifecycle/ agile development
+- Web site design
+- Data structures and algorithms
+- In app development
+- Network and Telecom Management
+- Intro to Linux OS
+- Automation and QA
+- Client/ Server Development
+- Computer graphics and Visualization, 
+- Operating environments
+- Object oriented analysis/ design
+- Intro to data and information management
+- Fundamentals of data mining
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
