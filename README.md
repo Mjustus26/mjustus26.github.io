@@ -26,8 +26,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Check out some of my projects!
-# [OpenGL Project using C++ Programming language]
-## [Databases Utilizing MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip).
+[OpenGL Project using C++ Programming language]
+[Databases Utilizing MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip).
 ### Header 3
 
 1. Numbered
@@ -46,4 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Having trouble with Pages? Email me at Mjustus26@gmail.com or contact me by phone at (417) 316-3248. 
+Having trouble with Pages? Email me at [Mjustus26@gmail.com] or contact me by phone at (417) 316-3248. 
