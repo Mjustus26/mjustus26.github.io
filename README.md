@@ -4,7 +4,7 @@
 A little about me: I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. I have learned so much over the course of my degree program. One of the biggest things are time and project management as I am an online student I have to manage my time while juggling all my current obligations and the projects I'm working on to be able to submit assignments on time and to meet my final project deadlines. Computer science has taught me to be an independent thinker and researcher.  
 
 Make sure and check out some of my projects: 
-[Software Design and Engineering ]
+[Software Design and Engineering - User Stories/Product Backlog](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS-product.backlog%26user.stories.xlsx)
 [Algorithms and Data structures - OpenGL Project]
 [Databases - NoSQL MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip)
 
