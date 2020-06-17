@@ -1,12 +1,17 @@
         Shoot for the moon; even if you miss you'll land among the stars
               - Anonymous
 
-A little about me: I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. I have learned so much over the course of my degree program. One of the biggest things are time and project management as I am an online student I have to manage my time while juggling all my current obligations and the projects I'm working on to be able to submit assignments on time and to meet my final project deadlines. Computer science has taught me to be an independent thinker and researcher.  
+A little about me: I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. I have learned so much over the course of my degree program. I have been able to explore different fields under the umbrella of computer science such as programming, database work, testing, software development lifecycle, operating systems and exposure to different software, administrative and troubleshooting tasks, data analysis, and many more subjects. My coursework has also allowed me to play different roles in the development lifecycle like product owner, scrum master and developer some of which I showcase in my user stories, backlog, and OpenGL projects linked below. The artifacts that I have selected to preview in this Portfolio emphasize my learning process and they showcase my work in databases, algorithms and data structures, and software engineering and design. 
 
 Make sure and check out some of my projects: 
 [Software Design and Engineering - User Stories/Product Backlog](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS-product.backlog%26user.stories.xlsx)
 [Algorithms and Data structures - OpenGL Project]
 [Databases - NoSQL MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip)
+ 
+A strength that I have aqcuired over the course of my degree program that is essential to work flow and productivity are time and project management. As an online student I have to manage my time efficiently to maximize my project success during study hours so that I can continue whith all my current obligations and projects to be able to meet those deadlines. 
+
+Learning will always be a continuous process in the Computer Science industry and there will always be something new to be learned; furthering my education has encouraged me to do my own independent research and to reflect upon projects that I completed throughout the program. Refining those skills through revision and review has made me a better student and learner; as I am able to adapt to new ideas, processes, and technologies.   
+
 
 Some relavant coursework includes: 
 - Software development lifecycle/ agile development
