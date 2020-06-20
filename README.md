@@ -1,7 +1,7 @@
         Shoot for the moon; even if you miss you'll land among the stars
               - Anonymous
 
-A little about me: I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. I have learned so much over the course of my degree program. I have been able to explore different fields under the umbrella of computer science such as programming, database work, testing, software development lifecycle, operating systems and exposure to different software, administrative and troubleshooting tasks, data analysis, and many more subjects. My coursework has also allowed me to play different roles in the development lifecycle like product owner, scrum master and developer some of which I showcase in my user stories, backlog, and OpenGL projects linked below. The artifacts that I have selected to preview in this Portfolio emphasize my learning process and they showcase my work in databases, algorithms and data structures, and software engineering and design. 
+**A little about me:** I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. I have learned so much over the course of my degree program. I have been able to explore different fields under the umbrella of computer science such as programming, database work, testing, software development lifecycle, operating systems and exposure to different software, administrative and troubleshooting tasks, data analysis, and many more subjects. My coursework has also allowed me to play different roles in the development lifecycle like product owner, scrum master and developer some of which I showcase in my user stories, backlog, and OpenGL projects linked below. The artifacts that I have selected to preview in this Portfolio emphasize my learning process and they showcase my work in databases, algorithms and data structures, and software engineering and design. 
 
 A strength that I have aqcuired over the course of my degree program that is essential to work flow and productivity are time and project management. As an online student I have to manage my time efficiently to maximize my project success during study hours so that I can continue whith all my current obligations and projects to be able to meet those deadlines. 
 
@@ -15,24 +15,18 @@ This is in the heart of software design and engineering because the user stories
 The skills illustrated were a solid understanding of the processes taken during the software development lifecycle and how user stories and the product backlog are utilized in the process. This is the project that allowed me to explore the product owner, developer and scrum master roles.
 
 
-[Algorithms and Data structures - OpenGL Project]
-This artifact is a project that I completed in my computer graphics class in my last term 20EW4( during April and May of 2020). It is written in C++ programming language and uses the modern OpenGL cross-platform library for interfacing with programmable GPUs(graphics processing unit) for rendering 3D graphics.  
-
-Including this artifact in my portfolio shows that I am able to write code in the C++ programming language and shows my ability to structure a project with components of a project whole. I improved this artifact by breaking things up into more than one file so that my main.cpp file does not look overwhelmed with several lines of code. I cleaned it up so that it is more readable and easy to follow the project goals. 
-
-Overall I did meet the enhancement plans because throughout the code review I was able to specify which points of the overall project I wanted to enhance; it made it easier to plan those enhancements once they were laid out in my project plan. Updates have come more slowly as the enhancement I have undertaken is quite large, but they are in progress. 
-
-As I reflect on the process of making enhancements one thing that just really stands out is time. It takes a lot of time and independent research to be able to go past what I learned in the class and apply that to the project that I was working on. I think the biggest challenges that I faced during these times were that the original program was not written for a Mac operating system which caused me so much trouble as I was using that as my main system. I had to use an old PC that I had to be able to use all the libraries I was supposed to use for the project. 
+[Algorithms and Data structures - OpenGL Project](https://drive.google.com/file/d/1LGH4coeIfgdXpA7P8zFppt1rFBNQpVmx/view?usp=sharing)
+This artifact is a project that I completed in my computer graphics class in my last term 20EW4( during April and May of 2020). It is written in C++ programming language and uses the modern OpenGL cross-platform library for interfacing with programmable GPUs(graphics processing unit) for rendering 3D graphics. The link above is my initial code review. I have since made several changes. I improved this artifact by breaking things up into more than one file so that my main.cpp file does not look overwhelmed with several lines of code. I cleaned it up so that it is more readable and easy to follow the project goals. [Check it out here!]( 
 
 [Databases - NoSQL MongoDB](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS340.Final_Project_MJ.docx.zip)
 The artifact I chose for the databases category is my final project from the database class I took here at Southern New Hampshire University that used MongoDB. MongoDB is a NoSQL database system that uses collections and documents.
  
-Including this artifact shows that I am dynamic in the technologies that I can perform in. Databases are so important to the IT world because it is the key way we store information and with MongoDB it is a more command line feel to it which supports a No SQL technique. The document shows my ability to create documents and collections and how I can manipulate the data through indexing and collection creation and querying. 
+The document shows my ability to create documents and collections and how I can manipulate the data through indexing and collection creation and querying. 
 
 I learned so much during the course; including being able to connect with the database through the terminal windows and cloud storage as well because they have that option. The biggest challenges I faced were getting comfortable with a command line feel and I realized I had to have two separate terminals up one for the connection to the database and one for all the document creation and manipulation.
 
 
-Some relavant coursework includes: 
+**Some relavant coursework includes:**
 - Software development lifecycle/ agile development
 - Web site design
 - Data structures and algorithms
@@ -49,20 +43,15 @@ Some relavant coursework includes:
 
 ```markdown
 
-### #lets talk Programming
+ #lets talk Programming
 
 Programming Languages I've dabbled in: **C++**, **Java**, **Python**, **HTML5**, **CSS**, **JSON**
 
-### Program experience and development platforms
+#Program experience and development platforms
 IDE: **Eclipse**, **Itelli J IDEA CE**, **Netbeans**, **Xcode**, **Visual Studio**
 
-
- _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Project Ideas
 
