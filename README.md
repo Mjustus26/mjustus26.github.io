@@ -3,9 +3,9 @@
 
 **A little about me:** I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. I have been able to explore different fields under the umbrella of computer science such as programming, database work, testing, software development lifecycle, operating systems and exposure to different software, administrative and troubleshooting tasks, data analysis, and many more subjects(Relevant course work listed below!).The artifacts that I have selected to preview in this Portfolio emphasize my learning process; my work in databases, algorithms and data structures, and software engineering and design. 
 
-A strength that I have aqcuired over the course of my degree program that is essential to work flow and productivity are time and project management. As an online student I have to manage my time efficiently to maximize my project success during study hours so that I can continue whith all my current obligations and projects to be able to meet those deadlines. 
+A strength that I have aqcuired over the course of my degree program that is essential to work flow and productivity are time and project management. As an online student I have to manage my time efficiently to maximize project success during study hours so I can continue whith all my current obligations and meet deadlines. 
 
-There is always something to be learned; furthering my education has encouraged me to do my own independent research and to reflect upon projects that I completed throughout the program. Refining those skills through revision and review has made me a better student and learner; as I am able to adapt to new ideas, processes, and technologies.   
+There is always something to be learned in Computer Science; furthering my education has encouraged me to do my own independent research and to reflect upon projects that I completed throughout the program. Refining those projects through review and then revision has made me a better student and learner; as I am able to adapt to new ideas, processes, and technologies.   
 
 
                             Make sure and check out some of my projects: 
