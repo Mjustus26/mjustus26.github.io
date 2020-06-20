@@ -8,7 +8,7 @@ A strength that I have aqcuired over the course of my degree program that is ess
 There is always something to be learned; furthering my education has encouraged me to do my own independent research and to reflect upon projects that I completed throughout the program. Refining those skills through revision and review has made me a better student and learner; as I am able to adapt to new ideas, processes, and technologies.   
 
 
-                                Make sure and check out some of my projects: 
+                            Make sure and check out some of my projects: 
                                 
                                 
 [Software Design and Engineering - User Stories/Product Backlog](https://github.com/Mjustus26/mjustus26.github.io/blob/master/CS-product.backlog%26user.stories.xlsx)
