@@ -1,7 +1,7 @@
         Shoot for the moon; even if you miss you'll land among the stars
               - Anonymous
 
-**A little about me:** I am a **Computer Science major** (3.6 GPA) currently attending Southern New Hampshire University, with exciting projects in progress. I have been able to explore different fields under the umbrella of computer science such as programming, database work, testing, software development lifecycle, operating systems and exposure to different software, administrative and troubleshooting tasks, data analysis, and many more subjects(Relevant course work listed below!).The artifacts that I have selected to preview in this Portfolio emphasize my learning process; my work in databases, algorithms and data structures, and software engineering and design. 
+**A little about me:** I am a **Computer Science major** (3.6 GPA) graduated from Southern New Hampshire University, with exciting projects in progress. I have been able to explore different fields under the umbrella of computer science such as programming, database work, testing, software development lifecycle, operating systems and exposure to different software, administrative and troubleshooting tasks, data analysis, and many more subjects(Relevant course work listed below!).The artifacts that I have selected to preview in this Portfolio emphasize my learning process; my work in databases, algorithms and data structures, and software engineering and design. 
 
 A strength that I have aqcuired over the course of my degree program that is essential to work flow and productivity are time and project management. As an online student I have to manage my time efficiently to maximize project success during study hours so I can continue whith all my current obligations and meet deadlines. 
 
